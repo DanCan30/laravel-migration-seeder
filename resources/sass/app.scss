@@ -1,5 +1,20 @@
 body {
-    background-color: whitesmoke;
+    background-color: rgb(179, 179, 179);
+    font-family: "Nunito", sans-serif;
+
+    h1 {
+        font-size: 3rem;
+        font-weight: 900;
+    }
+
+    ol>li {
+        margin-block: 1rem ;
+
+    }
+
+    li {
+        font-size: 1.2rem;
+    }
 
     .late {
         color: red;
