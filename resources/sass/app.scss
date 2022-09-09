@@ -1,1 +1,12 @@
-//
+body {
+    background-color: whitesmoke;
+
+    .late {
+        color: red;
+    }
+    
+    .deleted {
+        color: lightgrey;
+        text-decoration: line-through;
+    }
+}
